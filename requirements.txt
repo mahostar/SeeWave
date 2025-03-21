@@ -1,0 +1,9 @@
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+ffmpeg-python==0.2.0
+numpy==1.26.4
+Pillow==10.2.0
+tqdm==4.66.2
+pycairo==1.27.0
+send2trash

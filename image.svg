@@ -1,0 +1,15 @@
+<svg width="320" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="320" height="100" fill="#1A237E" />
+  
+  <!-- Waveform Icon -->
+  <g transform="translate(20, 30)">
+    <polyline fill="none" stroke="#FFFFFF" stroke-width="4"
+      points="0,30 10,10 20,40 30,15 40,35 50,5 60,30" />
+  </g>
+  
+  <!-- App Name -->
+  <text x="100" y="60" font-family="Arial, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold">
+    SeeWave
+  </text>
+</svg>
