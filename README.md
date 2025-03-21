@@ -164,7 +164,7 @@ The command line version supports various customization options:
 ## Credits
 
 Based on the original seewav project by Alexandre Défossez.
-GUI enhancements and additional features added in 2024.
+GUI enhancements and additional features added in 2025.
 
 ## License
 
