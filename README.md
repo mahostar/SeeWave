@@ -4,7 +4,7 @@
 
 ![SeeWav Screenshot](screenshots/2.png)
 
-A beautiful audio visualization tool that creates animated waveform videos from audio files. SeeWav transforms your audio into stunning visual representations with customizable colors and settings.
+An audio visualization tool that creates animated waveform videos from audio files. SeeWav transforms your audio into visual representations.
 
 ## Features
 
